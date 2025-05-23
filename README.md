@@ -78,5 +78,3 @@ It aims to help understand the basic concepts of neural networks and how data pr
 - LinkedIn: [Mohamed Abdullah](https://www.linkedin.com/in/mohamed-abdullah-1890b02ab/)
 
 ---
-
-# Artificial-Neural-Network
